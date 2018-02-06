@@ -1,3 +1,1 @@
-#!/bin/bash
-clear
-~/Schreibtisch/Jazmin/Git/ExcelCompare-0.6.1/bin/excel_cmp $2 $5
+./ExcelCompare-0.6.1/bin/excel_cmp $2 $5
